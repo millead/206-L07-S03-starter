@@ -69,7 +69,7 @@ footer {
 .header-content-wrapper {
   display: flex;
   justify-content: center;
-  align-content: center;
+  align-items: center;
   flex-flow: row wrap;
   /* Add a Flexbox property to make the header-content-wrapper a flex parent container. */
 
@@ -165,7 +165,7 @@ footer {
 .footer-content-wrapper {
  display: flex;
  justify-content: space-around;
- align-content: center;
+ align-itmes: center;
   /* Add a Flexbox property to make the testimonial-content-wrapper a flex parent container. */
 
   /* Add a justify-content property and value so that any extra space if the parent container is around the child flex items.  */
